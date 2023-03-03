@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685325528500",
+    "project_id": "imgapp-85533",
+    "storage_bucket": "imgapp-85533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685325528500:android:1a9d0ea5617e732aed16e1",
+        "android_client_info": {
+          "package_name": "com.example.imgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685325528500-en4qunqffnctntor8hbebrjhnh9u4pj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzDwO-34Yr92xASH-pAl-zAwsWjoenT6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685325528500-en4qunqffnctntor8hbebrjhnh9u4pj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
